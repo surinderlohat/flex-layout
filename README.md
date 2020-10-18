@@ -1,2 +1,2 @@
 # flex-layout
-Helps Building  using flex box for react Native
+Helps Building Layouts using flex box for react Native
